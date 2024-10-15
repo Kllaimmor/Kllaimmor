@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @Kllaimmor
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+hello = "Hello World"
 
-<!---
-Kllaimmor/Kllaimmor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+name = "Andrii"
+
+lastname = "Stelmaschuk"
+
+age = 16
+
+print(hello)
+
+print(name)
+
+print(lastname)
+
+print(age)
+
+print(type(hello))
+
+print(type(name))
+
+print(type(lastname))
+
+print(type(age))
